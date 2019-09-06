@@ -1,36 +1,35 @@
 {
     "currentUsages": [
         {
-            "deviceName": "P1",
-            "currentWattValue": 180,
+            "day": "Monday",
+            "deviceName": "Rubic Cube 15 minutes",
+            "currentWattValue": "Reading for 30 minutes,
             "todayKwhUsage": 5.902,
             "lastUpdate": "2018-04-02T18:12:06Z"
         },
         {
+            "day": "Tuesday",
             "deviceName": "Studie - MainDown",
             "currentWattValue": 76,
             "todayKwhUsage": 0.46,
             "lastUpdate": "2018-04-02T18:06:52Z"
         },
         {
+            "day": "Wednesday",
             "deviceName": "BoilerPower",
             "currentWattValue": 0,
             "todayKwhUsage": 2.21,
             "lastUpdate": "2018-04-02T17:30:01Z"
         },
         {
+            "day": "Thursday",
             "deviceName": "Koelkast",
             "currentWattValue": 1.3,
             "todayKwhUsage": 0.55,
             "lastUpdate": "2018-04-02T18:09:55Z"
         },
         {
-            "deviceName": "Vaatwasser",
-            "currentWattValue": 0.5,
-            "todayKwhUsage": 0.01,
-            "lastUpdate": "2018-04-02T18:10:51Z"
-        },
-        {
+            "day": "Friday",
             "deviceName": "Wasmachine",
             "currentWattValue": 0,
             "todayKwhUsage": 0,
