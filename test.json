@@ -1,13 +1,13 @@
 {
     "currentUsages": [
         {
-            "deviceName": "P1",
+            "deviceName": "Monday",
             "currentWattValue": 180,
             "todayKwhUsage": 5.902,
             "lastUpdate": "2018-04-02T18:12:06Z"
         },
         {
-            "deviceName": "Studie - MainDown",
+            "deviceName": "Tuesday",
             "currentWattValue": 76,
             "todayKwhUsage": 0.46,
             "lastUpdate": "2018-04-02T18:06:52Z"
